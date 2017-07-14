@@ -5,6 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Bullhorn Homepage</title>
+<link href="Style.css" rel = "stylesheet"/>
 </head>
 <body>
 <form action= "LoginServlet" method="post">
